@@ -8,6 +8,10 @@ application/logs/*
 
 !application/*/.htaccess
 
+application/config/config.php
+application/config/database.php
+captcha_images/*
+
 composer.lock
 
 user_guide_src/build/*
